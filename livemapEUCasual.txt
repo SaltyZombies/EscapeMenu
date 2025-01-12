@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<news name="ModNews">
+	 <entry> 
+		<date>2024-09-05 12:00:00Z</date> 
+	 	<title>Salty Zombies</title>
+	     	<title2>Shop Link</title2> 
+		<text></text> 
+		<link>http://203.57.82.139:29807</link>  
+		<imagerelpath></imagerelpath> 
+	 </entry> 
+</news>
